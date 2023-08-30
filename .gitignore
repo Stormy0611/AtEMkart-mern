@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+# local env files
+config.env
+
+# package-lock
+package-lock.json
+
+# database
+localdb
